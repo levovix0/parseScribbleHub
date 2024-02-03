@@ -1,0 +1,10 @@
+{
+  "src/parseScribbleHub.nim": {
+    "Getting: ": {
+      "": "Получение: "
+    },
+    "Getting chapter {x.name}: ": {
+      "": "Скачивание главы {x.name}: "
+    }
+  }
+}
