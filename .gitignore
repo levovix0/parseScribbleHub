@@ -1,0 +1,21 @@
+# no extention files
+*
+!*.*
+!*/
+
+# Nimcache
+nimcache/
+cache/
+build/
+
+# Garbage
+*.exe
+*.js
+*.log
+*.lg
+*.lock
+*.dll
+
+# hidden files
+.*
+!.gitignore
